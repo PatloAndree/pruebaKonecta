@@ -15,18 +15,18 @@ function Inicio() {
 
   const [usuarios,setUsuarios] = useState([]);
 
-  function EnviarData (event) {
-     event.preventDefault();
-    console.log(nombre);
-    console.log(apellidos);
-    console.log(dni);
-    console.log(telefono);
-  }
+    function limpiarData () {
+        setNombre("");
+        setApellidos("");
+        setDni("");
+        setTelefono("");
+        setIdUsuario("");
+        
+    }
 
-  useEffect(() => {
-    listarUsuarios();
-  }, []);
-
+    useEffect(() => {
+      listarUsuarios();
+    }, []);
 
    const listarUsuarios = async () => {
      try {
@@ -41,18 +41,19 @@ function Inicio() {
     
    };
 
-    const grabarUsuario = async (event) => {
-         event.preventDefault();
+  const grabarUsuario = async (event) => {
+      if (nombre != "" && dni != "") {
+        event.preventDefault();
           const registro = JSON.stringify({
             nombres: nombre,
             apellidos: apellidos,
             dni: dni,
             telefono: telefono,
           });
-             console.log(nombre);
-             console.log(apellidos);
-             console.log(dni);
-             console.log(telefono);
+            console.log(nombre);
+            console.log(apellidos);
+            console.log(dni);
+            console.log(telefono);
         await axios({
           method: "post",
           headers: {
@@ -64,83 +65,82 @@ function Inicio() {
           .then(async function (d) {
             console.log("Registro aceptado");
             listarUsuarios();
+            limpiarData();
           })
           .catch(function (error) {
             console.log(error);
           });
-    };
+        }
+  };
 
-    const editarData = (id, nombreE, apellidosE, dniE, telefonoE) => {
-      if(nombreE != ""){
-          setNombre(nombreE);
-          setApellidos(apellidosE);
-          setDni(dniE);
-          setTelefono(telefonoE);
-          setIdUsuario(id);
-          setEditarOpcion(true);
-
-      }
-
+  const editarData = (id, nombreE, apellidosE, dniE, telefonoE) => {
+    if(nombreE != ""){
+        setNombre(nombreE);
+        setApellidos(apellidosE);
+        setDni(dniE);
+        setTelefono(telefonoE);
+        setIdUsuario(id);
+        setEditarOpcion(true);
     }
 
-    const editarUsuario = async (event) => {
-         event.preventDefault();
+  }
 
-      const registro = JSON.stringify({
-        nombres: nombre,
-        apellidos: apellidos,
-        dni: dni,
-        telefono: telefono,
-        id:idUsuario
-      });
-      console.log(registro);
-       await axios({
-         method: "put",
-         headers: {
-           "Content-Type": "application/json",
-         },
-         url: `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${idUsuario}}`,
-         data: registro,
-       })
-         .then(async function (d) {
-           console.log("Registro aceptado");
-           listarUsuarios();
-           setEditarOpcion(false);
-         })
-         .catch(function (error) {
-           console.log(error);
-         });
+  const editarUsuario = async (event) => {
+        event.preventDefault();
 
-  //  try {
-  //    const response = await axios.put(
-  //      `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${idUsuario}}`,
-  //      registro
-  //    );
-  //    console.log(response.data);
-  //    // Manejar la respuesta si es necesario
-  //  } catch (error) {
-  //    console.error("Error al editar usuario:", error);
-  //    // Manejar el error si es necesario
-  //  }
-    };
+    const registro = JSON.stringify({
+      nombres: nombre,
+      apellidos: apellidos,
+      dni: dni,
+      telefono: telefono,
+      id:idUsuario
+    });
+    console.log(registro);
+      await axios({
+        method: "put",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        url: `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${idUsuario}}`,
+        data: registro,
+      })
+        .then(async function (d) {
+          console.log("Registro aceptado");
+          listarUsuarios();
+          limpiarData();
+          setEditarOpcion(false);
+        })
+        .catch(function (error) {
+          console.log(error);
+        });
 
-    const eliminarUsuario = async (id) => {
-      try {
-        const response = await axios.delete(
-          `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${id}`
-        );
-        console.log(response.data);
-        listarUsuarios();
+//  try {
+//    const response = await axios.put(
+//      `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${idUsuario}}`,
+//      registro
+//    );
+//    console.log(response.data);
+//    // Manejar la respuesta si es necesario
+//  } catch (error) {
+//    console.error("Error al editar usuario:", error);
+//    // Manejar el error si es necesario
+//  }
+  };
 
-        // Manejar la respuesta si es necesario
-      } catch (error) {
-        console.error("Error al eliminar usuario Api:", error);
-        // Manejar el error si es necesario
-      }
-    };
+  const eliminarUsuario = async (id) => {
+    try {
+      const response = await axios.delete(
+        `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${id}`
+      );
+      console.log(response.data);
+      listarUsuarios();
 
-
-
+      // Manejar la respuesta si es necesario
+    } catch (error) {
+      console.error("Error al eliminar usuario Api:", error);
+      // Manejar el error si es necesario
+    }
+  };
 
   return (
     <div className="flex-column vh-50">
