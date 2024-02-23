@@ -159,7 +159,7 @@
 // export default Login;
 
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 
@@ -169,6 +169,30 @@ function Login() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const navigate = useNavigate();
+  const [usuarios, setUsuarios] = useState([]);
+
+
+    const listarUsuarios = async () => {
+      try {
+        const response = await axios.get(
+          //  "http://192.168.18.30/Backend/controllers/usuarioController.php"
+          "http://127.0.0.1:8000/api/usuarios/listar"
+        );
+        setTimeout(() => {
+          setUsuarios(response.data);
+          console.log(response.data);
+        }, 200);
+      } catch (error) {
+        console.error("Error al obtener usuarios:", error);
+      }
+    };
+
+    useEffect(() => {
+      return () => {
+        // listarUsuarios();
+      };
+    }, []);
+
 
   const validarLogin = async (event) => {
     event.preventDefault();
@@ -235,6 +259,8 @@ function Login() {
           ¿No tienes una cuenta? <Link to="/registro">Regístrate</Link>
         </p>
       </form>
+
+      {/* <p>{JSON.stringify(usuarios)}</p> */}
     </div>
   );
 }

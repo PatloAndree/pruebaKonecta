@@ -33,8 +33,8 @@ function Inicio() {
     setLoading(true);
     try {
       const response = await axios.get(
-        //  "http://192.168.18.30/Backend/controllers/usuarioController.php"
-        "http://localhost/newVersion/public/getUsuarios"
+         "http://192.168.18.30/Backend/controllers/usuarioController.php"
+        // "http://localhost/newVersion/public/getUsuarios"
         );
         setTimeout(() => {
           setUsuarios(response.data);
@@ -48,10 +48,11 @@ function Inicio() {
       }
       
   };
+  
 
   const grabarUsuario = async (event) => {
+    event.preventDefault();
     if (nombre != "" && dni != "") {
-      event.preventDefault();
       const registro = JSON.stringify({
         nombres: nombre,
         apellidos: apellidos,
@@ -69,17 +70,24 @@ function Inicio() {
         },
         // url: "http://192.168.18.30/Backend/controllers/usuarioController.php",
         url: "http://localhost/newVersion/public/agregarUsuario",
+        // url: "http://127.0.0.1:8000/api/usuarios/agregarUsuario",
 
         data: registro,
       })
         .then(async function (d) {
           console.log("Registro aceptado");
+          console.log(d.data);
+
           listarUsuarios();
           limpiarData();
         })
         .catch(function (error) {
           console.log(error);
+          console.log("Registro rechazadao");
+
         });
+    }else{
+      alert("Completa los campos");
     }
   };
 
@@ -96,15 +104,13 @@ function Inicio() {
 
   const editarUsuario = async (event) => {
     event.preventDefault();
-
     const registro = JSON.stringify({
       nombres: nombre,
       apellidos: apellidos,
       dni: dni,
       telefono: telefono,
-      id: idUsuario,
+      id: idUsuario
     });
-
     console.log("hola esto envio");
     console.log(registro);
     await axios({
@@ -114,6 +120,8 @@ function Inicio() {
       },
       // url: `http://192.168.18.30/Backend/controllers/usuarioController.php?id=${idUsuario}}`,
       url: `http://localhost/newVersion/public/editarUsuario`,
+      // url: `http://127.0.0.1:8000/api/usuarios/editarUsuario`,
+
       data: registro,
     })
       .then(async function (d) {
@@ -131,8 +139,9 @@ function Inicio() {
     try {
       const response = await axios.delete(
         `http://localhost/newVersion/public/eliminarUsuario?id=${id}`
+        // `http://127.0.0.1:8000/api/usuarios/eliminarUsuario/${id}`
       );
-      console.log(response.data);
+      console.log(response.data.message);
       listarUsuarios();
 
       // Manejar la respuesta si es necesario
