@@ -1,0 +1,764 @@
+CRITICAL - 2024-02-22 21:19:44 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:19:58 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\UsuariosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:19:58 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\UsuariosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:19:59 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\UsuariosController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:05 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:05 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:05 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:05 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:06 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:28 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:30 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:30 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:30 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:20:30 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:23 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:23 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:24 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:24 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:24 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:24 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:24 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:22:24 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:32 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:33 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:34 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:34 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:44 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:44 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:24:44 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:26:15 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:26:15 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:26:15 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:26:15 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:26:15 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:26:20 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:45:21 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:00 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:02 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:03 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:03 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:03 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:03 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:03 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:04 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:48:10 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:51:56 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 21:53:00 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:03:00 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:03:01 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:03:01 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:06:24 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\UsuariosController.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:08:12 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\UsuariosController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:10:36 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:11:00 --> Error: Class 'App\Models\UsuariosModel' not found
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:11:15 --> Error: Class 'BaseController' not found
+in APPPATH\Models\UsuariosModel.php on line 3.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(309): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(288): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp2\\htdocs\\newVersion\\app\\Models\\UsuariosModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UsuariosModel')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UsuariosModel')
+ 5 APPPATH\Controllers\UsuariosController.php(25): spl_autoload_call('App\\Models\\UsuariosModel')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:12:13 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+in APPPATH\Models\UsuariosModel.php on line 23.
+ 1 APPPATH\Controllers\UsuariosController.php(30): App\Models\UsuariosModel->obtenerUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:26 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:26 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:27 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:27 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:28 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:28 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:28 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:28 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:29 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:29 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:30 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:30 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:31 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:51:31 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:53:04 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:53:04 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:53:48 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:53:48 --> Error: Call to a member function obtenerUsuarios() on null
+in APPPATH\Controllers\UsuariosController.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->getUsuarios()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:54:18 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:54:18 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:55:37 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:55:37 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:56:58 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:56:58 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:56:58 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 22:56:58 --> Error: Cannot call constructor
+in APPPATH\Controllers\UsuariosController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\UsuariosController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:10:31 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\UsuariosModel"
+in SYSTEMPATH\Model.php on line 766.
+ 1 SYSTEMPATH\Model.php(766): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\UsuariosModel')
+ 2 SYSTEMPATH\BaseModel.php(783): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Models\UsuariosModel.php(26): CodeIgniter\Model->insert([...])
+ 5 APPPATH\Controllers\UsuariosController.php(47): App\Models\UsuariosModel->agregarUsuario([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->agregarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:11:59 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\UsuariosModel"
+in SYSTEMPATH\Model.php on line 766.
+ 1 SYSTEMPATH\Model.php(766): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\UsuariosModel')
+ 2 SYSTEMPATH\BaseModel.php(783): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Models\UsuariosModel.php(26): CodeIgniter\Model->insert([...])
+ 5 APPPATH\Controllers\UsuariosController.php(44): App\Models\UsuariosModel->agregarUsuario([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->agregarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:14:06 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\UsuariosModel"
+in SYSTEMPATH\Model.php on line 766.
+ 1 SYSTEMPATH\Model.php(766): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\UsuariosModel')
+ 2 SYSTEMPATH\BaseModel.php(783): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Models\UsuariosModel.php(26): CodeIgniter\Model->insert([...])
+ 5 APPPATH\Controllers\UsuariosController.php(44): App\Models\UsuariosModel->agregarUsuario([...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->agregarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+    CRITICAL - 2024-02-22 23:16:51 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\UsuariosModel"
+    in SYSTEMPATH\Model.php on line 766.
+    1 SYSTEMPATH\Model.php(766): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\UsuariosModel')
+    2 SYSTEMPATH\BaseModel.php(783): CodeIgniter\Model->doProtectFieldsForInsert([...])
+    3 SYSTEMPATH\Model.php(744): CodeIgniter\BaseModel->insert([...], true)
+    4 APPPATH\Models\UsuariosModel.php(26): CodeIgniter\Model->insert([...])
+    5 APPPATH\Controllers\UsuariosController.php(44): App\Models\UsuariosModel->agregarUsuarioM([...])
+    6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->agregarUsuario()
+    7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+    8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+    9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:29:43 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(62): App\Models\UsuariosModel->editarUsuario('3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:31:30 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(67): App\Models\UsuariosModel->editarUsuario('3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:31:39 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(67): App\Models\UsuariosModel->editarUsuario('4', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:32:50 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(67): App\Models\UsuariosModel->editarUsuario('4', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:34:57 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(67): App\Models\UsuariosModel->editarUsuario('4', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:36:32 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(69): App\Models\UsuariosModel->editarUsuario(1, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:37:06 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(69): App\Models\UsuariosModel->editarUsuario(1, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:37:53 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(69): App\Models\UsuariosModel->editarUsuario(1, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:38:27 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(68): App\Models\UsuariosModel->editarUsuario('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:41:58 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(69): App\Models\UsuariosModel->editarUsuario('1', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:42:09 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(69): App\Models\UsuariosModel->editarUsuario('8', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:44:14 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(70): App\Models\UsuariosModel->editarUsuario('4', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-22 23:46:34 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 1778.
+ 1 SYSTEMPATH\BaseModel.php(1778): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(956): CodeIgniter\BaseModel->transformDataToArray(null, 'update')
+ 3 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update([...], null)
+ 4 APPPATH\Models\UsuariosModel.php(28): CodeIgniter\Model->update([...])
+ 5 APPPATH\Controllers\UsuariosController.php(72): App\Models\UsuariosModel->editarUsuario('3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\UsuariosController->editarUsuario()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuariosController))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+    

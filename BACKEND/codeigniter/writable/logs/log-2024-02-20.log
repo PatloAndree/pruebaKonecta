@@ -1,0 +1,80 @@
+CRITICAL - 2024-02-20 15:43:43 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:04:05 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:06:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:09:24 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:10:59 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:01 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:01 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:01 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:01 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:11:57 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-02-20 16:12:00 --> CodeIgniter\Exceptions\FrameworkException: The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
